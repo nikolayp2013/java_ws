@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WS_Server/TestWS?WSDL" uri="src/conf/xml-resources/web-service-references/TestWS/wsdl/localhost_8080/WS_Server/TestWS.wsdl"/>
+    <system systemId="http://localhost:8080/WS_Server/TestWS?xsd=1" uri="src/conf/xml-resources/web-service-references/TestWS/wsdl/localhost_8080/WS_Server/TestWS.xsd_1.xsd"/>
+    <system systemId="http://www.webservicex.net/barcode.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/barcode/wsdl/www.webservicex.net/barcode.asmx.wsdl"/>
+    <system systemId="http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/Weather/wsdl/wsf.cdyne.com/WeatherWS/Weather.asmx.wsdl"/>
+</catalog>

@@ -1,7 +1,7 @@
 # java_ws
 Java веб сервисы.  <br />
 
-Текущий изученный урок: 01 <br />
+Текущий изученный урок: 03.2 <br />
 
 Урок 01 - Java WS. Введение в веб сервисы. (20:44) <br />
 Урок 02 - Java WS. Стандарты. (16:06) <br />
@@ -74,3 +74,9 @@ Java веб сервисы.  <br />
 Урок 53 - Java WS. Создание ссылки на веб сервис. (08:31) <br />
 Урок 54 - Java WS. Поиск рейса. (27:06) <br />
 Урок 55 - Java WS. Покупка билета. (09:47) <br />
+
+Настройка glassfish чтобы работал с русскими символами
+C:\Program Files\glassfish4\glassfish\domains\domain1\config\domain.xml
+ищем поиском maxpermsize
+перед ним ставим
+<jvm-options>-Dfile.encoding=UTF-8</jvm-options>

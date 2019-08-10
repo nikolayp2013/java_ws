@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/WS_Server/TestWS?WSDL" uri="src/conf/xml-resources/web-service-references/TestWS/wsdl/localhost_8080/WS_Server/TestWS.wsdl"/>
+    <system systemId="http://localhost:8080/WS_Server/TestWS?xsd=1" uri="src/conf/xml-resources/web-service-references/TestWS/wsdl/localhost_8080/WS_Server/TestWS.xsd_1.xsd"/>
+    <system systemId="http://www.webservicex.net/barcode.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/barcode/wsdl/www.webservicex.net/barcode.asmx.wsdl"/>
+    <system systemId="http://wsf.cdyne.com/WeatherWS/Weather.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/Weather/wsdl/wsf.cdyne.com/WeatherWS/Weather.asmx.wsdl"/>
+    <system systemId="http://www.esendex.com/secure/messenger/soap/SendService.asmx?wsdl" uri="src/conf/xml-resources/web-service-references/SendService/wsdl/www.esendex.com/secure/messenger/soap/SendService.asmx.wsdl"/>
+    <system systemId="http://www.webservicex.net/genericbarcode.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/genericbarcode/wsdl/www.webservicex.net/genericbarcode.asmx.wsdl"/>
+    <system systemId="https://webservice.aspsms.com/aspsmsx2.asmx?WSDL" uri="src/conf/xml-resources/web-service-references/aspsmsx2/wsdl/webservice.aspsms.com/aspsmsx2.asmx.wsdl"/>
+</catalog>
