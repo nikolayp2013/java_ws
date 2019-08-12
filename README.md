@@ -1,7 +1,7 @@
 # java_ws
 Java веб сервисы.  <br />
 
-Текущий изученный урок: 06 <br />
+Текущий изученный урок: 07 <br />
 
 Урок 01 - Java WS. Введение в веб сервисы. (20:44) <br />
 Урок 02 - Java WS. Стандарты. (16:06) <br />
@@ -80,3 +80,5 @@ C:\Program Files\glassfish4\glassfish\domains\domain1\config\domain.xml
 ищем поиском maxpermsize
 перед ним ставим
 <jvm-options>-Dfile.encoding=UTF-8</jvm-options>
+
+Altova XMLSpy https://www.altova.com/download#
